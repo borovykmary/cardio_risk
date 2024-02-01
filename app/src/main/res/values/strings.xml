@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">CardioRisk</string>
+    <string-array name="gender">
+        <item>female</item>
+        <item>male</item>
+    </string-array>
+    <string-array name="smoker">
+        <item>smoker</item>
+        <item>non-smoker</item>
+    </string-array>
+    <string-array name="diabetes">
+        <item>has diabetes</item>
+        <item>no diabetes</item>
+    </string-array>
+</resources>

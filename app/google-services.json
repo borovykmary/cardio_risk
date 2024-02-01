@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "347652552972",
+    "project_id": "cardiorisk-a9571",
+    "storage_bucket": "cardiorisk-a9571.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:347652552972:android:58f5e175bdb0ad59007129",
+        "android_client_info": {
+          "package_name": "com.example.cardiorisk"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNsdk0B9SB3kJsc3L5YKOX5uVK1owTi30"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
